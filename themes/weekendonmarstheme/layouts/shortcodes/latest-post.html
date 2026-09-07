@@ -1,0 +1,20 @@
+{{- $posts := where site.RegularPages "Section" "posts" -}}
+{{- with $posts -}}
+  {{- with index .ByDate.Reverse 0 -}}
+    <section class="intro latest-post">
+      <div class="intro-heading">
+        <p class="section-label">02 / Latest transmission / {{ .Date | time.Format "02 Jan 2006" }}</p>
+        <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
+      </div>
+
+      <div class="intro-body">
+        {{- with .Params.summary -}}
+          <p>{{ . | markdownify }}</p>
+        {{- else -}}
+          <p>{{ .Summary | plainify | truncate 260 }}</p>
+        {{- end -}}
+        <a class="read-more" href="{{ .RelPermalink }}">Read the blog post <span>↗</span></a>
+      </div>
+    </section>
+  {{- end -}}
+{{- end -}}

@@ -1,5 +1,16 @@
 <a class="brand" href="{{ "" | relURL }}" aria-label="Weekend On Mars home">
-  <span class="brand-mark" aria-hidden="true">↗</span>
-  <span>{{ site.Title }}</span>
+  <svg class="brand-mark" viewBox="0 0 100 100" aria-hidden="true" focusable="false">
+    <circle cx="50" cy="50" r="47" fill="currentColor" />
+    <g fill="var(--paper)">
+      <circle cx="24" cy="25" r="2" />
+      <circle cx="77" cy="20" r="2" />
+      <circle cx="82" cy="75" r="1.8" />
+      <circle cx="20" cy="74" r="1.5" />
+    </g>
+    <path d="M8 67 C28 38 62 18 94 27" fill="none" stroke="var(--paper)" stroke-width="5" />
+    <path d="M8 70 C34 58 67 52 96 62" fill="none" stroke="var(--red)" stroke-width="5" />
+    <text x="50" y="61" fill="var(--paper)" font-family="Michroma, Arial, sans-serif" font-size="27" font-weight="700" text-anchor="middle">W</text>
+  </svg>
+  <span>{{ site.Title }} <small>MISSION CTRL</small></span>
 </a>
 {{ partial "menu.html" (dict "menuID" "main" "page" .) }}

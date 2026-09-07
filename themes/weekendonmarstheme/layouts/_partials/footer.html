@@ -1,1 +1,9 @@
-<div class="footer-inner"><span>Weekend On Mars</span><span>Agile delivery, with intent.</span><span>© {{ now.Year }}</span></div>
+<div class="footer-inner">
+  <span>Weekend On Mars</span>
+  {{ with site.GetPage "/posts" }}
+    {{ with .OutputFormats.Get "RSS" }}
+      <a class="rss-link" href="{{ .RelPermalink }}">RSS feed ↗</a>
+    {{ end }}
+  {{ end }}
+  <span>© {{ now.Year }}</span>
+</div>

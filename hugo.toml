@@ -3,16 +3,15 @@ locale = 'en-gb'
 title = 'Weekend On Mars'
 theme = 'weekendonmarstheme'
 
+[markup.goldmark.renderer]
+  unsafe = true
+
 [menus]
   [[menus.main]]
-    name = 'Journal'
+    name = 'Blog'
     pageRef = '/posts'
     weight = 10
   [[menus.main]]
-    name = 'What we do'
-    url = '/#approach'
-    weight = 20
-  [[menus.main]]
     name = 'Start a conversation'
     url = 'mailto:hello@weekendonmars.com'
-    weight = 30
+    weight = 20
