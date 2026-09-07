@@ -10,7 +10,7 @@ theme = 'weekendonmarstheme'
     weight = 10
   [[menus.main]]
     name = 'What we do'
-    pageRef = '/#approach'
+    url = '/#approach'
     weight = 20
   [[menus.main]]
     name = 'Start a conversation'
