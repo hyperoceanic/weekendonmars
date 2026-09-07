@@ -1,4 +1,18 @@
-baseURL = 'https://example.org/'
-locale = 'en-us'
-title = 'My New Hugo Project'
+baseURL = 'https://weekendonmars.github.io/'
+locale = 'en-gb'
+title = 'Weekend On Mars'
 theme = 'weekendonmarstheme'
+
+[menus]
+  [[menus.main]]
+    name = 'Journal'
+    pageRef = '/posts'
+    weight = 10
+  [[menus.main]]
+    name = 'What we do'
+    pageRef = '/#approach'
+    weight = 20
+  [[menus.main]]
+    name = 'Start a conversation'
+    url = 'mailto:hello@weekendonmars.com'
+    weight = 30

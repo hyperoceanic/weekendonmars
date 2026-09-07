@@ -1,2 +1,5 @@
-<h1>{{ site.Title }}</h1>
+<a class="brand" href="{{ "" | relURL }}" aria-label="Weekend On Mars home">
+  <span class="brand-mark" aria-hidden="true">↗</span>
+  <span>{{ site.Title }}</span>
+</a>
 {{ partial "menu.html" (dict "menuID" "main" "page" .) }}
