@@ -6,4 +6,4 @@ tags = ['intro']
 summary = 'Create workbooks for your reMarkable devices.'
 +++
 
-Here: [https://rm-pdf-studio2.fly.dev/](Workbook Studio)
+Here: [Workbook Studio](https://rm-pdf-studio2.fly.dev/)
