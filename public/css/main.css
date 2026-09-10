@@ -53,6 +53,9 @@ footer {
   padding-left: 5vw;
   padding-right: 5vw;
 }
+.posts-page {
+  padding-top: 48px;
+}
 header {
   align-items: center;
   background: var(--paper);
@@ -127,6 +130,14 @@ nav a:hover {
   font-weight: 700;
   letter-spacing: .12em;
   text-transform: uppercase;
+}
+.post-date {
+  color: var(--muted);
+  display: block;
+  margin: 14px 0 42px;
+}
+.post-list-date {
+  margin: 12px 0 18px;
 }
 h1,
 h2,
