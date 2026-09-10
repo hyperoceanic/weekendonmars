@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Intro on Weekend On Mars</title>
+		<link>http://localhost:1313/tags/intro/</link>
+		<description>Recent content in Intro on Weekend On Mars</description>
+		<generator>Hugo</generator>
+		<language>en-gb</language>
+		
+		
+		
+		
+			<lastBuildDate>Tue, 01 Sep 2026 10:00:00 -0700</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/tags/intro/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Weekend on mars?</title>
+				<link>http://localhost:1313/posts/2026/09/2026-09-01-first/</link>
+				<pubDate>Tue, 01 Sep 2026 10:00:00 -0700</pubDate>
+				<guid>http://localhost:1313/posts/2026/09/2026-09-01-first/</guid>
+				<description>&lt;p&gt;Well, why not. Almost as implausible as Agile Thinking taking root.&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>

@@ -12,6 +12,10 @@ theme = 'weekendonmarstheme'
     pageRef = '/posts'
     weight = 10
   [[menus.main]]
+    name = 'About'
+    pageRef = '/about'
+    weight = 15
+  [[menus.main]]
     name = 'Start a conversation'
-    url = 'mailto:hello@weekendonmars.com'
+    url = 'mailto:hello@weekendonmars.co.uk'
     weight = 20

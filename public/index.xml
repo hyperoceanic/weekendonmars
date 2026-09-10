@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Tue, 01 Sep 2026 10:00:00 -0700</lastBuildDate>
+			<lastBuildDate>Thu, 10 Sep 2026 00:00:00 +0000</lastBuildDate>
 		
 			<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>About</title>
+				<link>http://localhost:1313/about/</link>
+				<pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/about/</guid>
+				<description>&lt;p&gt;Weekend On Mars is a UK-based consultancy with deep technical roots.&lt;/p&gt;</description>
+			</item>
 			<item>
 				<title>Weekend on mars?</title>
 				<link>http://localhost:1313/posts/2026/09/2026-09-01-first/</link>

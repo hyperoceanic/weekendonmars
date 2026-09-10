@@ -12,8 +12,8 @@ markup = 'goldmark'
   </div>
 
   <div class="intro-body">
-    <p>Great teams rarely need more process. They need the right process: visible, lightweight, and designed around how work actually moves.</p>
-    <p>We make the invisible visible, find the bottlenecks, and help teams build a system that gets better every week.</p>
+    <p>Your teams probably need more guidance and less process. A bit more trust would help, but can you be sure that things won't veer off course?</p>
+    <p>We can help find the bottlenecks and free your teams to deliver something that gets better every week.</p>
   </div>
 </section>
 
