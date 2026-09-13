@@ -124,7 +124,8 @@ nav a:hover {
 }
 .eyebrow,
 .section-label,
-.post-date {
+.post-date,
+figcaption {
   font-family: "Space Mono", monospace;
   font-size: .66rem;
   font-weight: 700;
@@ -199,7 +200,8 @@ h2 em {
   grid-template-columns: 1fr 1.4fr;
   padding: 72px 0;
 }
-.section-label {
+.section-label,
+figcaption {
   color: var(--red);
 }
 .intro h2 {

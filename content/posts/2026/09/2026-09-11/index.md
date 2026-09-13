@@ -31,16 +31,24 @@ I maintain three main streams - personal stuff, one for the company I work for, 
 
 These are custom workbooks I created the web site to create. They are structured as follows:
 
-1. **Home Page** Links to the main pages below.
+1. **Home Page** The title and year you select in the web app get copied here, and there are links to the main pages below - Inbox, Calendar and Notes.
+
+<figure>
+<figcaption>Home Page</figcaption>
+<img src="home.png" height="400">
+</figure>
+
+
 1. **Inbox** A single page with boxes where you write stuff so you don't forget. Erase it when you have dealt with it. Don't keep stuff here longer than a day, if that.
 
-<img src="/inbox.png" width="500" alt='Inbox'>
+<figure>
+<figcaption>Inbox showing three entries</figcaption>
+<img src="inbox.png" width="500" alt='Inbox'>
+</figure>
 
 1. **Calendar** Another single page with links to a daily page with checkboxes and lines for writing what you want to get done that day.
 
 <figure>
-
-
 <figcaption>Month View</figcaption>
 <img src="calendar-month.png" height="200">
 <figcaption>Day View</figcaption>
@@ -49,11 +57,16 @@ These are custom workbooks I created the web site to create. They are structured
 
 I use a separate layer to record important stuff I don't want to erase, like the thing on 5th September above. The pink highlighter line I erase/draw every week to help me quickly locate the current week.
 
-1. **Notes** Single page with a number of boxes on it, every box leading to a page for stuff in flight. You can add more pages if you like, but I prefer to erase and re-use as I work.
+1. **Notes** Single page with a number of boxes on it, every box leading to a page for stuff in flight. You can add more pages for each note if you like, but I prefer to erase and re-use as I work.
 
+
+<figure>
+<figcaption>Notes Main Page</figcaption>
 <img src="notes.png" width="500">
-
+<figcaption>Note Page</figcaption>
 <img src="note.png" width="500">
+</figure>
+
 
 
 Everything is linked. Every page is no further than two clicks away. All the work is obvious, if you use the Inbox and the Notes page even marginally effectively.
