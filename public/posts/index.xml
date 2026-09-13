@@ -14,11 +14,11 @@
 		
 			<atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
 			<item>
-				<title>Workbook Studio - daily productivity</title>
-				<link>http://localhost:1313/posts/2026/09/2026-09-11/2026-09-11-workbook-studio/</link>
+				<title>Workbook Studio - daily productivity on reMarkable e-ink tablets</title>
+				<link>http://localhost:1313/posts/2026/09/2026-09-11/</link>
 				<pubDate>Fri, 11 Sep 2026 10:00:00 -0700</pubDate>
-				<guid>http://localhost:1313/posts/2026/09/2026-09-11/2026-09-11-workbook-studio/</guid>
-				<description>Create workbooks for your reMarkable devices.</description>
+				<guid>http://localhost:1313/posts/2026/09/2026-09-11/</guid>
+				<description>Create workbooks for your reMarkable devices. Read more about it here.</description>
 			</item>
 			<item>
 				<title>Weekend on mars?</title>
