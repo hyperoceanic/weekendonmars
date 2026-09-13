@@ -15,9 +15,9 @@
 			<atom:link href="http://localhost:1313/tags/intro/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Weekend on mars?</title>
-				<link>http://localhost:1313/posts/2026/09/2026-09-01-first/</link>
+				<link>http://localhost:1313/posts/2026/09/2026-09-01/</link>
 				<pubDate>Tue, 01 Sep 2026 10:00:00 -0700</pubDate>
-				<guid>http://localhost:1313/posts/2026/09/2026-09-01-first/</guid>
+				<guid>http://localhost:1313/posts/2026/09/2026-09-01/</guid>
 				<description>&lt;p&gt;Well, why not. Almost as implausible as Agile Thinking taking root.&lt;/p&gt;</description>
 			</item>
 	</channel>

@@ -139,6 +139,9 @@ nav a:hover {
 .post-list-date {
   margin: 12px 0 18px;
 }
+.page-content > section + section {
+  margin-top: 56px;
+}
 h1,
 h2,
 h3,
